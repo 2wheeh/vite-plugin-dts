@@ -86,7 +86,7 @@
     "rimraf": "^5.0.1",
     "semver": "^7.5.4",
     "tsx": "^3.12.7",
-    "typescript": "5.0.4",
+    "typescript": "5.1.6",
     "unbuild": "^1.2.1",
     "vite": "^4.4.7",
     "vitest": "^0.33.0"
